@@ -1,4 +1,4 @@
-# 🖥️ PC Setup Step-by-Step Guide
+# 🖥️ Guía Paso a Paso para Configurar un PC Nuevo
 
 ---
 
