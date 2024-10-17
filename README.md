@@ -81,7 +81,8 @@
 ## 6. ⚙️ Optimización y Personalización del Sistema
 
 1. **Desactivar Aplicaciones de Inicio**: Desactiva aplicaciones que se inicien automáticamente para mejorar el tiempo de arranque.
-2. **Configurar Opciones de Energía**: Asegúrate de que tu PC esté en modo de alto rendimiento para maximizar el rendimiento.
+2. **Desactivar Aplicaciones en Segundo Plano**: Desactiva aplicaciones que se ejecutan en segundo plano las cuales no utilices.
+3. **Configurar Opciones de Energía**: Asegúrate de que tu PC esté en modo de alto rendimiento para maximizar el rendimiento.
 
 ---
 
